@@ -1,0 +1,5 @@
+water texture: 	https://commons.wikimedia.org/wiki/File:Water_texture_1380389_Nevit.jpg
+wood planks texture: https://commons.wikimedia.org/wiki/File:Wood_planks_texture.jpg
+Trees model: 	https://sketchfab.com/3d-models/tree-1d26dcc1af0c4a06a95c459b7ca4cf6f
+buildings: https://sketchfab.com/3d-models/medieval-building-833d2e67e8f44a7a921229c5e0e6b72b
+buildings: https://sketchfab.com/3d-models/scifi-building-1220360fcebc4aa0874f1ca6bcb4cb30
